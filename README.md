@@ -1,9 +1,9 @@
 # Exemples de diagrames UML
 ## Diagrames de Casos d'Ús (CU)
-### Diagrama de Casos d'Ús d'una app de Pokémon
+### Diagrama de Casos d'Ús: Pokémon app
 ![CU-PokémonApp.png](src/uml/CU-Pok%C3%A9monApp.png)
 
-## CU Compra Skins
+### Diagrama de CU: Compra Skins
 ![CU](src/uml/CU-CompraSkins.png)
 
 ---
