@@ -15,6 +15,7 @@ loop usuari.getFactures().size
    activate F
    F --> G: factura.toString(): String
    deactivate F
+   destroy F
 end
 
 G --> GUI: mostrarLlistatFactures(factures)

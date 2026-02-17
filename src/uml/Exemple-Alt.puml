@@ -15,6 +15,7 @@ alt existeix factura
    F --> GF: factura
    GF --> GUI: factura.toString(): String
    deactivate F
+   destroy F
 else no existeix factura
    F --> GF: null
    GF --> GUI: mostrarMissatgeError(String)
